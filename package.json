@@ -1,0 +1,16 @@
+{
+  "name": "newmantest",
+  "version": "1.0.0",
+  "description": "Observing how newman reporter works for Postman",
+  "main": "newmanScript.js",
+  "dependencies": {
+    "newman": "^4.5.7",
+    "newman-reporter-htmlextra": "^1.10.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "newman": "node newmanScript.js"
+  },
+  "author": "Shreya Verma",
+  "license": "ISC"
+}
